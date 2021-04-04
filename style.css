@@ -1,0 +1,160 @@
+html, body {
+    height: auto;
+}
+	
+body {
+    margin: 5px;
+		height: auto;
+		padding: 5px;
+    background-image: url(images/thisistheone.jpg);
+    background-color: #000010;
+		font-family: 'Questrial', sans-serif;
+		font-size: 12pt;
+		color: #c7d5e0
+}
+	
+	
+h1 {
+		margin-top: 3px;
+    margin-bottom: 3px;
+		padding: 0;
+		color: #c7d5e0;
+		font-size: 24pt
+	}
+
+h2 {
+		margin-top: 10px;
+    margin-bottom: 3px;
+		padding: 0;
+		color: #c7d5e0;
+		font-size: 20pt
+	}
+
+h3	{
+  	margin-top: 0px;
+    margin-bottom: 3px;
+		padding: 0;
+		color: #c7d5e0;
+		font-size: 18pt
+	}
+
+h4
+	{
+	  margin-top: 0px;
+    margin-bottom: 3px;
+		padding: 0;
+		color: #c7d5e0;
+		font-size: 16pt
+	}
+
+h5
+	{
+		margin: 0px;
+		padding: 0;
+		color: #c7d5e0;
+		font-size: 14pt
+	}
+
+div#main {
+	background-color: #00002e;
+	width: 1000px;
+	margin: auto;
+	height: auto;
+  border-style: solid;
+  border-color: #c7d5e0;
+  text-align: center;
+}
+
+div#container2 {
+		border-style: solid;
+		border-width: thick;
+  	border-color: #2cb510;
+		background-image: url("images/gameboardbg.jpg");
+		width: 800px;
+		height: 600px;
+		margin-left:auto;
+  	margin-right:auto;
+		margin-bottom: 15px;
+}
+
+div#footer {
+  background-color: #c7d5e0;
+  width: 1000px;
+  margin: auto;
+  border-style: solid;
+  border-color: #c7d5e0;
+}
+
+.specialp {
+	width: 850px;
+	padding: 0px;
+	margin: auto;
+	margin-top: 15px;
+	color: #c7d5e0;
+	font-family: Arial, Helvetica, Lucida Sans Typewriter;
+  text-align: left;
+}
+
+special_p {
+	width: 850px;
+	height: 420px;
+	padding: 10px;
+	margin: auto;
+	color: #00002e;
+	background-color: #c7d5e0;
+	font-family: Arial, Helvetica, Lucida Sans Typewriter
+}
+
+div#navbar {
+	background-color: #00002e;
+  border-style: solid;
+  border-color: #c7d5e0;
+	width: 1000px;
+	height: auto;
+	margin: auto;
+	position: sticky;
+	overflow: hidden;
+  text-align: center;
+	top: 0
+}
+
+.container {
+		margin: 0px;
+		width: 1200px;
+		height: auto;
+}
+
+address{
+  margin-top: 3px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #00002e
+}
+
+.video
+{
+	border-color: #c7d5e0;
+	border-style: solid;
+	margin: 5px;
+	padding: 5px;
+}
+
+.gameIcons
+{
+	padding-right: 5px;
+	padding-left: 5px;
+	height: 161px;
+	width: 230px;
+}
+
+.connectIcons {
+  padding-left: 0px;
+  padding-right:10px;
+}
+
+canvas {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-style: solid;
+  border-color: #2cb510;
+}
